@@ -29,6 +29,6 @@ The project was developed in **Embedded C** using **MPLAB** and simulated in **P
 ---
 
 ## 🔌 Circuit Diagram
-![Proteus Schematic](proteus-schematic.png)
+![Proteus Schematic](motor_control_proteus.JPG)
 
 ---
